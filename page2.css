@@ -1,0 +1,43 @@
+.all{
+    border-style:solid;
+    border-color:brown;
+    border-radius:25px;
+}
+.frstP{
+    text-align:justify; 
+    margin-left:15px; 
+    margin-right:15px;"
+}
+li{
+    margin-top:15px;
+    text-align:justify;
+    margin-left:10px;
+    margin-right:10px;
+    font-family:Times New Romans;
+    border-style:solid;
+    border-color:green;
+    padding:15px;
+    border-radius:10px;
+}
+ul{
+    margin-top:20px;
+}
+.btnNext{
+    font-size:15px;
+    margin-left:220px;
+    margin-bottom:20px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.btnBack{
+    font-size:15px;
+    margin-left:25px;
+    margin-bottom:-32px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:5px;
+    padding-bottom:5px;
+    radius:10px;
+}

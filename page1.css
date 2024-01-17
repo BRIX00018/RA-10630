@@ -1,0 +1,57 @@
+.top{
+    text-align:center;
+    font-size:10px;
+}
+.definition{
+    color: black;
+    font-family: times new romans;
+    text-align:justify;
+    margin: 5px;
+    border-style:solid;
+    border-color:green;
+    padding:10px;
+}
+h2, h3{
+    text-align:center;
+    color:green;
+    margin-top:20px;
+}
+.RAcontent{
+    margin-top:25px;
+    
+}
+.H{
+    margin-top:20px;
+}
+.all{
+    border-style:solid;
+    border-radius:20px;
+    border-color:brown;
+}
+.bottom{
+    text-align:center;
+    font-size:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:20px;
+    margin-right:20px;
+}
+.sections{
+    margin-left:20px;
+    margin-right:20px;
+    padding-top:2px;
+}
+.secDef{
+    font-size:15px;
+    font-family:times new romans;
+}
+.allSec{
+    font-weight:bold;
+    
+}
+.button{
+    margin-bottom:10px;
+    margin-left:90px; 
+    padding-left:50px; 
+    padding-right:50px;
+}
